@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/omlon-git/TypeScript-develop/issues"
   },
-  "homepage": "https://github.com/omlon-git/TypeScript-develop#readme"
+  "homepage": "https://github.com/omlon-git/TypeScript-develop#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
